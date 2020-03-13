@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import com.example.bankkata.model.Amount;
 
 
-public class AmountTest {
+public class AmountTests {
 
 	@Test
 	public void exceptionShouldBeThrownWhenValueIsNull() {

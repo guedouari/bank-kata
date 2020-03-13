@@ -21,7 +21,7 @@ import com.example.bankkata.model.Transaction;
 
 import com.example.bankkata.rest.exception.InvalidOperationException;
 
-public class AccountTest {
+public class AccountTests {
 
 	@Mock
 	private AccountOperations accountOperations;

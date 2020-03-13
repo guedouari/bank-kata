@@ -12,7 +12,7 @@ import com.example.bankkata.model.Amount;
 import com.example.bankkata.model.OperationType;
 import com.example.bankkata.model.Transaction;
 
-public class AccountOperationsTest {
+public class AccountOperationsTests {
 
 	@Test
 	public void testMethodPrintAllOperations() {
