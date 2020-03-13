@@ -1,9 +1,9 @@
-package fr.kata.bank.model;
+package com.example.bankkata.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-import fr.kata.bank.exception.InvalidOperationException;
+import com.example.bankkata.rest.exception.InvalidOperationException;
 
 public class Account {
 	

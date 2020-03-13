@@ -1,4 +1,4 @@
-package fr.kata.bank.model;
+package com.example.bankkata.model;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;

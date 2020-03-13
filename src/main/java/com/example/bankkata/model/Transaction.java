@@ -1,4 +1,4 @@
-package fr.kata.bank.model;
+package com.example.bankkata.model;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

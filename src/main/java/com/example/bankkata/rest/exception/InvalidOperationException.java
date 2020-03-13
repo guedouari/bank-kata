@@ -1,4 +1,4 @@
-package fr.kata.bank.exception;
+package com.example.bankkata.rest.exception;
 
 
 public class InvalidOperationException extends Exception {
